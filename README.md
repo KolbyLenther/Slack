@@ -1,5 +1,7 @@
 # Slack
 
+<img src="https://github.com/KolbyLenther/Slack/blob/main/sl.png"/>
+
 ***Slack is a cloud-based team communication platform developed by Slack Technologies, which has been owned by Salesforce since 2020. Slack uses a freemium model. Slack's primary userbase is businesses, and has functionalities primarily for businesses***
 
 +  In Slack, you’ve got all the flexibility to work when, where and how it’s best for you. You can easily chat, send audio and video clips, or hop on a huddle to talk things out live
